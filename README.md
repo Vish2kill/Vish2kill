@@ -1,13 +1,43 @@
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
-<h3 align="center">Trainer || Full Stack Developer || PHP || MySql || BCA || Web Developer & Designer</h3>
+
+
+## 🚀 About Me
+I'm a full stack web developer with a strong educational background and a passion for creating dynamic and user-friendly web applications. Currently pursuing a web development course, I am skilled in both front-end and back-end technologies, including HTML, CSS, JavaScript, and Node.js as well as knowledge of famous framework like React. I am eager to apply my knowledge and expand my skills in a real-world setting....
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-singh-9a877314a/)
+
+# 🛠 Skills
+Javascript, HTML, CSS, NodeJs, PHP, MySql, React,
+ExpressJs, MongoDB, Tailwind_Css, Bootstrap
 
 <p align="left"> <a href="https://twitter.com/vish2kill" target="blank"><img src="https://img.shields.io/twitter/follow/vish2kill?logo=twitter&style=for-the-badge" alt="vish2kill" /></a> </p>
-<h1>My Projects</h1>
-- 🔭### 1.) [London Mortage Website](https://londoncismortgage.co.uk/)
+## 🏗️ Projects
 
-- 👯 ### 2.) [Sudha Wellness Website](https://sudhawellness.com/)
+### 1.) Gym website
 
-- 🤝 ### 3.) [Network Net Institute Website](https://networknets.com/)
+```bash
+  https://gym-webproject.vercel.app/
+```
+
+### 2.) Institute Live Website
+
+```bash
+  https://networknets.com/
+```
+
+### 3.) London Cis Mortage
+
+```bash
+  https://londoncismortgage.co.uk/
+```
+
+### 4.) Sudha Wellness Website
+
+```bash
+  https://sudhawellness.com/
+```
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vishal-singh-9a877314a/details/projects/](https://www.linkedin.com/in/vishal-singh-9a877314a/details/projects/)
 
