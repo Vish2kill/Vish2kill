@@ -6,6 +6,7 @@ I'm a full stack web developer with a strong educational background and a passio
 
 
 ## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vishal-singh-portfolio.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-singh-9a877314a/)
 
 # 🛠 Skills
@@ -37,6 +38,21 @@ ExpressJs, MongoDB, Tailwind_Css, Bootstrap
 
 ```bash
   https://sudhawellness.com/
+```
+### 5.) My Portfolio
+
+```bash
+https://vishal-singh-portfolio.vercel.app/
+```
+### 6.) Dashboard
+
+```bash
+https://dashboard-vish2kills-projects.vercel.app/
+```
+### 7.) Vish2kill E-commerce Website
+
+```bash
+https://vish2kill-ecommerce.vercel.app/
 ```
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vishal-singh-9a877314a/details/projects/](https://www.linkedin.com/in/vishal-singh-9a877314a/details/projects/)
